@@ -1,0 +1,1091 @@
+.theme-color a[layout-type="dark"] .cont:after {
+  background: #404E67
+}
+
+.theme-color a[layout-type="dark"] .cont:before {
+  background: #546686
+}
+
+.theme-color a[layout-type="dark"] .head:after {
+  background: #546686
+}
+
+.theme-color a[layout-type="dark"] .head:before {
+  background: #404E67
+}
+
+
+.pcoded[layout-type="dark"],
+body.dark {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] a,
+body.dark a {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] text,
+body.dark text {
+    fill: #fff
+}
+
+.pcoded[layout-type="dark"] .card,
+body.dark .card {
+    background-color: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .card code,
+body.dark .card code {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .card .card-header h5,
+body.dark .card .card-header h5 {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .card .card-header .card-header-right i,
+body.dark .card .card-header .card-header-right i {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .card .card-block code,
+body.dark .card .card-block code {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .card .card-block .dropdown-menu,
+body.dark .card .card-block .dropdown-menu {
+    background-color: #4e5f7d
+}
+
+.pcoded[layout-type="dark"] .card .card-footer,
+body.dark .card .card-footer {
+    background-color: #465570
+}
+
+.pcoded[layout-type="dark"] .dropdown-menu,
+body.dark .dropdown-menu {
+    background-color: #4e5f7d
+}
+
+.pcoded[layout-type="dark"] .dropdown-menu .dropdown-item .dropdown-divider,
+body.dark .dropdown-menu .dropdown-item .dropdown-divider {
+    border-top: 1px solid #404E67
+}
+
+.pcoded[layout-type="dark"] .dropdown-menu .dropdown-item:focus,
+.pcoded[layout-type="dark"] .dropdown-menu .dropdown-item:hover,
+body.dark .dropdown-menu .dropdown-item:focus,
+body.dark .dropdown-menu .dropdown-item:hover {
+    background-color: #404E67
+}
+
+.pcoded[layout-type="dark"] .sub-title,
+body.dark .sub-title {
+    color: #6a7fa3
+}
+
+.pcoded[layout-type="dark"] .table td,
+.pcoded[layout-type="dark"] .table th,
+body.dark .table td,
+body.dark .table th {
+    border-top: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .table thead th,
+body.dark .table thead th {
+    border-bottom: 2px solid #546686
+}
+
+.pcoded[layout-type="dark"] .thumb-block,
+body.dark .thumb-block {
+    border: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .b-t-default,
+.pcoded[layout-type="dark"] .b-t-theme,
+.pcoded[layout-type="dark"] .post-new-footer,
+.pcoded[layout-type="dark"] .version .nav li:first-child,
+body.dark .b-t-default,
+body.dark .b-t-theme,
+body.dark .post-new-footer,
+body.dark .version .nav li:first-child {
+    border-top: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .b-b-default,
+.pcoded[layout-type="dark"] .b-b-theme,
+.pcoded[layout-type="dark"] .job-cards .media,
+.pcoded[layout-type="dark"] .search-content,
+body.dark .b-b-default,
+body.dark .b-b-theme,
+body.dark .job-cards .media,
+body.dark .search-content {
+    border-bottom: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .b-l-default,
+.pcoded[layout-type="dark"] .b-l-theme,
+body.dark .b-l-default,
+body.dark .b-l-theme {
+    border-left: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .b-r-default,
+.pcoded[layout-type="dark"] .b-r-theme,
+.pcoded[layout-type="dark"] .messages-content,
+body.dark .b-r-default,
+body.dark .b-r-theme,
+body.dark .messages-content {
+    border-right: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .progress,
+body.dark .progress {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .btn-default,
+body.dark .btn-default {
+    background-color: #546686;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+body.dark .mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background-color: #546686 !important
+}
+
+.pcoded[layout-type="dark"] .pcoded-main-container,
+body.dark .pcoded-main-container {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .nav-right>.header-notification:nth-child(2) .show-notification li:first-child:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .nav-right>.header-notification:nth-child(2) .profile-notification li:first-child:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .nav-right>.header-notification:nth-child(2) .show-notification li:first-child:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .nav-right>.header-notification:nth-child(2) .profile-notification li:first-child:hover {
+    background-color: #404E67 !important
+}
+
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .profile-notification,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .show-notification,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .header-notification .profile-notification,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .mega-menu-top .profile-notification,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .profile-notification,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .show-notification,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .header-notification .profile-notification,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .mega-menu-top .profile-notification {
+    background-color: #404E67
+}
+
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .profile-notification a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .show-notification a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .header-notification .profile-notification a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .mega-menu-top .profile-notification a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .profile-notification a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .show-notification a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .header-notification .profile-notification a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .mega-menu-top .profile-notification a {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification.row li:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .row.profile-notification li:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .show-notification.row li:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .header-notification .row.profile-notification li:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .mega-menu-top .row.profile-notification li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification.row li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .row.profile-notification li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .show-notification.row li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .header-notification .row.profile-notification li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .mega-menu-top .row.profile-notification li:hover {
+    background-color: transparent
+}
+
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover .mega-menu-links>li:hover a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification.row li:hover .mega-menu-links>li:hover a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover .mega-menu-links>li:hover a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .row.profile-notification li:hover .mega-menu-links>li:hover a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .show-notification.row li:hover .mega-menu-links>li:hover a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .header-notification .row.profile-notification li:hover .mega-menu-links>li:hover a,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .mega-menu-top .row.profile-notification li:hover .mega-menu-links>li:hover a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover .mega-menu-links>li:hover a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification.row li:hover .mega-menu-links>li:hover a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .row.profile-notification li:hover .mega-menu-links>li:hover a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .row.profile-notification li:hover .mega-menu-links>li:hover a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .show-notification.row li:hover .mega-menu-links>li:hover a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .mega-menu-top .header-notification .row.profile-notification li:hover .mega-menu-links>li:hover a,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .mega-menu-top .row.profile-notification li:hover .mega-menu-links>li:hover a {
+    color: #01a9ac
+}
+
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification li:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification li:hover,
+.pcoded[layout-type="dark"] .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .show-notification li:hover,
+body.dark .header-navbar .navbar-wrapper .navbar-container .header-notification .profile-notification li:hover {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .header-navbar .morphsearch.open,
+body.dark .header-navbar .morphsearch.open {
+    background-color: #404E67
+}
+
+.pcoded[layout-type="dark"] .header-navbar .morphsearch.open .morphsearch-form,
+body.dark .header-navbar .morphsearch.open .morphsearch-form {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .header-navbar .morphsearch.open .morphsearch-content,
+body.dark .header-navbar .morphsearch.open .morphsearch-content {
+    background-color: #404E67
+}
+
+.pcoded[layout-type="dark"] .header-navbar .morphsearch.open .morphsearch-content .dummy-media-object,
+body.dark .header-navbar .morphsearch.open .morphsearch-content .dummy-media-object {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .p-chat-user,
+body.dark .p-chat-user {
+    border-left: 1px solid #2c3648
+}
+
+.pcoded[layout-type="dark"] .p-chat-user .userlist-box,
+body.dark .p-chat-user .userlist-box {
+    border-bottom: 1px solid #2c3648
+}
+
+.pcoded[layout-type="dark"] .p-chat-user .userlist-box .chat-header,
+body.dark .p-chat-user .userlist-box .chat-header {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .showChat_inner,
+body.dark .showChat_inner {
+    background-color: #546686;
+    border-left: 1px solid #2c3648
+}
+
+.pcoded[layout-type="dark"] .showChat_inner .chat-menu-content,
+body.dark .showChat_inner .chat-menu-content {
+    background-color: #404E67
+}
+
+.pcoded[layout-type="dark"] .showChat_inner .chat-menu-content:before,
+body.dark .showChat_inner .chat-menu-content:before {
+    border-right-color: #404E67
+}
+
+.pcoded[layout-type="dark"] .showChat_inner .chat-inner-header,
+body.dark .showChat_inner .chat-inner-header {
+    border-bottom: 1px solid #404E67
+}
+
+.pcoded[layout-type="dark"] .showChat_inner .chat-menu-reply,
+body.dark .showChat_inner .chat-menu-reply {
+    background-color: #2c3648
+}
+
+.pcoded[layout-type="dark"] .showChat_inner .chat-menu-reply:before,
+body.dark .showChat_inner .chat-menu-reply:before {
+    border-left-color: #2c3648
+}
+
+.pcoded[layout-type="dark"] .showChat_inner .chat-reply-box,
+body.dark .showChat_inner .chat-reply-box {
+    background-color: #546686;
+    border-top: 1px solid #404E67
+}
+
+.pcoded[layout-type="dark"] .form-control,
+body.dark .form-control {
+    background-color: #546686;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .main-body .page-wrapper .page-header-title h4,
+body.dark .main-body .page-wrapper .page-header-title h4 {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .profile-comp-block input.dial,
+.pcoded[layout-type="dark"] .view-card input.dial,
+body.dark .profile-comp-block input.dial,
+body.dark .view-card input.dial {
+    color: #fff !important
+}
+
+.pcoded[layout-type="dark"] .line-example,
+body.dark .line-example {
+    border-right: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .marketing-card .table tbody .marketing-header,
+body.dark .marketing-card .table tbody .marketing-header {
+    background: #2c3648
+}
+
+.pcoded[layout-type="dark"] .unique-visitor-card .footer-card,
+body.dark .unique-visitor-card .footer-card {
+    background-color: #2c3648
+}
+
+.pcoded[layout-type="dark"] .user-detail-card .user-detail>div,
+body.dark .user-detail-card .user-detail>div {
+    border-bottom: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .user-detail-card .user-detail>div:last-child,
+body.dark .user-detail-card .user-detail>div:last-child {
+    border-bottom: none
+}
+
+.pcoded[layout-type="dark"] .client-map .client-contain h5,
+body.dark .client-map .client-contain h5 {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .client-map .client-card-box,
+body.dark .client-map .client-card-box {
+    border: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .client-map .client-card-box .client-border,
+body.dark .client-map .client-card-box .client-border {
+    border-right: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .client-map .client-card-box .client-border-card,
+body.dark .client-map .client-card-box .client-border-card {
+    border-top: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .widget-card-user .card-footer,
+body.dark .widget-card-user .card-footer {
+    background-color: #2c3648
+}
+
+.pcoded[layout-type="dark"] .widget-card-user .card-footer .footer-menu+.footer-menu,
+body.dark .widget-card-user .card-footer .footer-menu+.footer-menu {
+    border-left: 2px solid #546686
+}
+
+.pcoded[layout-type="dark"] .card-contact-box .f-btn:hover,
+body.dark .card-contact-box .f-btn:hover {
+    background-color: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .to-do-list,
+body.dark .to-do-list {
+    border-bottom: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .widget-chat-box .media .send-chat,
+body.dark .widget-chat-box .media .send-chat {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .widget-chat-box .media .send-chat:before,
+body.dark .widget-chat-box .media .send-chat:before {
+    border-right: 15px solid #546686
+}
+
+.pcoded[layout-type="dark"] .widget-chat-box .media .receive-chat,
+body.dark .widget-chat-box .media .receive-chat {
+    background-color: #2c3648
+}
+
+.pcoded[layout-type="dark"] .widget-chat-box .media .receive-chat:before,
+body.dark .widget-chat-box .media .receive-chat:before {
+    border-left: 15px solid #2c3648
+}
+
+.pcoded[layout-type="dark"] .card-comment .card-block-small,
+body.dark .card-comment .card-block-small {
+    border-bottom: 1px solid #4a5a77
+}
+
+.pcoded[layout-type="dark"] .card-comment .card-block-small:hover,
+body.dark .card-comment .card-block-small:hover {
+    background-color: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .alert.alert-danger,
+.pcoded[layout-type="dark"] .alert.alert-default,
+.pcoded[layout-type="dark"] .alert.alert-info,
+.pcoded[layout-type="dark"] .alert.alert-primary,
+.pcoded[layout-type="dark"] .alert.alert-success,
+.pcoded[layout-type="dark"] .alert.alert-warning,
+body.dark .alert.alert-danger,
+body.dark .alert.alert-default,
+body.dark .alert.alert-info,
+body.dark .alert.alert-primary,
+body.dark .alert.alert-success,
+body.dark .alert.alert-warning {
+    background-color: #404E67
+}
+
+.pcoded[layout-type="dark"] .alert.background-default,
+body.dark .alert.background-default {
+    background-color: #e0e0e0;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .alert.background-primary,
+body.dark .alert.background-primary {
+    background-color: #01a9ac;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .alert.background-success,
+body.dark .alert.background-success {
+    background-color: #0ac282;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .alert.background-info,
+body.dark .alert.background-info {
+    background-color: #2DCEE3;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .alert.background-warning,
+body.dark .alert.background-warning {
+    background-color: #fe9365;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .alert.background-danger,
+body.dark .alert.background-danger {
+    background-color: #fe5d70;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .accordion-msg,
+body.dark .accordion-msg {
+    color: #fff;
+    border-top: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .accordion-desc,
+body.dark .accordion-desc {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .md-tabs .nav-item a,
+body.dark .md-tabs .nav-item a {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .md-tabs .nav-item a.active,
+.pcoded[layout-type="dark"] .md-tabs .nav-item a:focus,
+.pcoded[layout-type="dark"] .md-tabs .nav-item a:hover,
+body.dark .md-tabs .nav-item a.active,
+body.dark .md-tabs .nav-item a:focus,
+body.dark .md-tabs .nav-item a:hover {
+    color: #01a9ac
+}
+
+.pcoded[layout-type="dark"] .md-tabs .nav-item a.active:focus,
+.pcoded[layout-type="dark"] .md-tabs .nav-item a.active:hover,
+body.dark .md-tabs .nav-item a.active:focus,
+body.dark .md-tabs .nav-item a.active:hover {
+    color: #01a9ac
+}
+
+.pcoded[layout-type="dark"] .nav-tabs,
+body.dark .nav-tabs {
+    border-bottom: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .nav-tabs .nav-link:focus,
+.pcoded[layout-type="dark"] .nav-tabs .nav-link:hover,
+body.dark .nav-tabs .nav-link:focus,
+body.dark .nav-tabs .nav-link:hover {
+    border-color: #546686
+}
+
+.pcoded[layout-type="dark"] .tab-below,
+body.dark .tab-below {
+    border-top: 1px solid #546686;
+    border-bottom: none
+}
+
+.pcoded[layout-type="dark"] .tab-below .nav-link,
+body.dark .tab-below .nav-link {
+    margin-top: 1px
+}
+
+.pcoded[layout-type="dark"] .scroll-list li,
+body.dark .scroll-list li {
+    background-color: #4e5f7d;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .scroll-list li:nth-child(even),
+body.dark .scroll-list li:nth-child(even) {
+    background-color: #576b8d
+}
+
+.pcoded[layout-type="dark"] .panel,
+body.dark .panel {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .panel .panel-footer,
+body.dark .panel .panel-footer {
+    background-color: #4e5f7d;
+    border-top: 1px solid #323d51
+}
+
+.pcoded[layout-type="dark"] .well,
+body.dark .well {
+    background-color: #323d51;
+    border: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .page-link,
+body.dark .page-link {
+    background-color: #546686;
+    border-color: #323d51
+}
+
+.pcoded[layout-type="dark"] .jqpagination input,
+body.dark .jqpagination input {
+    margin: 0;
+    height: 30px
+}
+
+.pcoded[layout-type="dark"] .nav-tabs .nav-item.show .nav-link,
+.pcoded[layout-type="dark"] .nav-tabs .nav-link.active,
+body.dark .nav-tabs .nav-item.show .nav-link,
+body.dark .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: #4a5a77;
+    border-color: #ddd #ddd #4a5a77
+}
+
+.pcoded[layout-type="dark"] .nav-tabs.tab-below .nav-item.show .nav-link,
+.pcoded[layout-type="dark"] .nav-tabs.tab-below .nav-link.active,
+body.dark .nav-tabs.tab-below .nav-item.show .nav-link,
+body.dark .nav-tabs.tab-below .nav-link.active {
+    border-color: #4a5a77 #ddd #ddd
+}
+
+.pcoded[layout-type="dark"] .modal-content,
+body.dark .modal-content {
+    background-color: #4e5f7d
+}
+
+.pcoded[layout-type="dark"] .modal-content .modal-header,
+body.dark .modal-content .modal-header {
+    border-bottom: 1px solid #404E67
+}
+
+.pcoded[layout-type="dark"] .modal-content .modal-footer,
+body.dark .modal-content .modal-footer {
+    border-top: 1px solid #404E67
+}
+
+.pcoded[layout-type="dark"] .br-theme-bars-square .br-widget a,
+body.dark .br-theme-bars-square .br-widget a {
+    background-color: #4e5f7d
+}
+
+.pcoded[layout-type="dark"] .jstree-anchor.jstree-hovered,
+body.dark .jstree-anchor.jstree-hovered {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .dd-handle,
+body.dark .dd-handle {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .dd3-content,
+body.dark .dd3-content {
+    color: #fff;
+    border: 1px solid #404E67;
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .img-thumbnail,
+body.dark .img-thumbnail {
+    background-color: #404E67;
+    border: 1px solid #323d51
+}
+
+.pcoded[layout-type="dark"] .dotted-line-theme .no_edit:hover,
+body.dark .dotted-line-theme .no_edit:hover {
+    background-color: #546686;
+    border-bottom: 1px solid #404E67
+}
+
+.pcoded[layout-type="dark"] .icon-list-demo i,
+body.dark .icon-list-demo i {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .form-radio label,
+body.dark .form-radio label {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .bootstrap-tagsinput,
+body.dark .bootstrap-tagsinput {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] #reportrange,
+body.dark #reportrange {
+    background-color: #546686 !important
+}
+
+.pcoded[layout-type="dark"] .select2-container--default .select2-selection--multiple,
+.pcoded[layout-type="dark"] .select2-dropdown,
+body.dark .select2-container--default .select2-selection--multiple,
+body.dark .select2-dropdown {
+    background-color: #4e5f7d
+}
+
+.pcoded[layout-type="dark"] .ms-container .ms-selectable,
+.pcoded[layout-type="dark"] .ms-container .ms-selection,
+body.dark .ms-container .ms-selectable,
+body.dark .ms-container .ms-selection {
+    background-color: #4e5f7d
+}
+
+.pcoded[layout-type="dark"] .ms-container .ms-selectable li.ms-elem-selectable,
+.pcoded[layout-type="dark"] .ms-container .ms-selection li.ms-elem-selectable,
+body.dark .ms-container .ms-selectable li.ms-elem-selectable,
+body.dark .ms-container .ms-selection li.ms-elem-selectable {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .ms-container .ms-selectable li.disabled,
+.pcoded[layout-type="dark"] .ms-container .ms-selection li.disabled,
+body.dark .ms-container .ms-selectable li.disabled,
+body.dark .ms-container .ms-selection li.disabled {
+    background-color: #4e5f7d;
+    opacity: 0.5
+}
+
+.pcoded[layout-type="dark"] .wizard>.content,
+body.dark .wizard>.content {
+    background-color: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .wizard>.steps .disabled a,
+.pcoded[layout-type="dark"] .wizard>.steps .disabled a:active,
+.pcoded[layout-type="dark"] .wizard>.steps .disabled a:hover,
+body.dark .wizard>.steps .disabled a,
+body.dark .wizard>.steps .disabled a:active,
+body.dark .wizard>.steps .disabled a:hover {
+    background-color: #4e5f7d
+}
+
+.pcoded[layout-type="dark"] .wizard>.steps .done a,
+body.dark .wizard>.steps .done a {
+    background-color: #404E67
+}
+
+.pcoded[layout-type="dark"] .table-bordered,
+body.dark .table-bordered {
+    border: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .table-bordered td,
+.pcoded[layout-type="dark"] .table-bordered th,
+body.dark .table-bordered td,
+body.dark .table-bordered th {
+    border: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] a.dt-button.disabled,
+.pcoded[layout-type="dark"] button.dt-button.disabled,
+.pcoded[layout-type="dark"] div.dt-button.disabled,
+body.dark a.dt-button.disabled,
+body.dark button.dt-button.disabled,
+body.dark div.dt-button.disabled {
+    background-image: none;
+    opacity: 0.5
+}
+
+.pcoded[layout-type="dark"] .fixedHeader-floating,
+body.dark .fixedHeader-floating {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] table.DTFC_Cloned tfoot,
+.pcoded[layout-type="dark"] table.DTFC_Cloned thead,
+body.dark table.DTFC_Cloned tfoot,
+body.dark table.DTFC_Cloned thead {
+    background-color: #4e5f7d
+}
+
+.pcoded[layout-type="dark"] .dt-responsive input,
+body.dark .dt-responsive input {
+    background-color: #546686;
+    border: 1px solid #4a5a77
+}
+
+.pcoded[layout-type="dark"] .footable-details.table-striped>tbody>tr:nth-child(odd),
+.pcoded[layout-type="dark"] .footable.table-striped>tbody>tr:nth-child(odd),
+body.dark .footable-details.table-striped>tbody>tr:nth-child(odd),
+body.dark .footable.table-striped>tbody>tr:nth-child(odd) {
+    background: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .footable-details.table>thead>tr>td,
+.pcoded[layout-type="dark"] .footable-details.table>thead>tr>th,
+.pcoded[layout-type="dark"] .footable.table>thead>tr>td,
+.pcoded[layout-type="dark"] .footable.table>thead>tr>th,
+body.dark .footable-details.table>thead>tr>td,
+body.dark .footable-details.table>thead>tr>th,
+body.dark .footable.table>thead>tr>td,
+body.dark .footable.table>thead>tr>th {
+    border-bottom: 2px solid #404E67
+}
+
+.pcoded[layout-type="dark"] .c3-tooltip td,
+.pcoded[layout-type="dark"] .morris-hover,
+body.dark .c3-tooltip td,
+body.dark .morris-hover {
+    background-color: #404E67
+}
+
+.pcoded[layout-type="dark"] #chart_Candlestick rect,
+.pcoded[layout-type="dark"] #chart_Combo rect,
+.pcoded[layout-type="dark"] #chart_Donut rect,
+.pcoded[layout-type="dark"] #chart_Exploading rect,
+.pcoded[layout-type="dark"] #chart_Threshold rect,
+.pcoded[layout-type="dark"] #chart_Waterfall rect,
+.pcoded[layout-type="dark"] #chart_area rect,
+.pcoded[layout-type="dark"] #chart_bar rect,
+.pcoded[layout-type="dark"] #chart_bubble rect,
+.pcoded[layout-type="dark"] #chart_stacking rect,
+body.dark #chart_Candlestick rect,
+body.dark #chart_Combo rect,
+body.dark #chart_Donut rect,
+body.dark #chart_Exploading rect,
+body.dark #chart_Threshold rect,
+body.dark #chart_Waterfall rect,
+body.dark #chart_area rect,
+body.dark #chart_bar rect,
+body.dark #chart_bubble rect,
+body.dark #chart_stacking rect {
+    fill: #4a5a77 !important
+}
+
+.pcoded[layout-type="dark"] .auth-box .form-control,
+body.dark .auth-box .form-control {
+    background-color: #fff
+}
+
+.pcoded[layout-type="dark"] .chat-header,
+body.dark .chat-header {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .social-msg a span,
+body.dark .social-msg a span {
+    color: #f2f2f2
+}
+
+.pcoded[layout-type="dark"] .bg-white,
+body.dark .bg-white {
+    background: #4a5a77 !important
+}
+
+.pcoded[layout-type="dark"] .list-group-item,
+body.dark .list-group-item {
+    background: #4a5a77
+}
+
+.pcoded[layout-type="dark"] ul.list-contacts a,
+body.dark ul.list-contacts a {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .card-header-img h5,
+.pcoded[layout-type="dark"] .card-header-img h6,
+body.dark .card-header-img h5,
+body.dark .card-header-img h6 {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .prod-item .prod-info,
+body.dark .prod-item .prod-info {
+    background: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .email-card .user-body,
+body.dark .email-card .user-body {
+    background: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .email-card .user-body .page-list li.mail-section a,
+body.dark .email-card .user-body .page-list li.mail-section a {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .email-card .user-body .page-list li.mail-section a.active,
+.pcoded[layout-type="dark"] .email-card .user-body .page-list li.mail-section a:hover,
+body.dark .email-card .user-body .page-list li.mail-section a.active,
+body.dark .email-card .user-body .page-list li.mail-section a:hover {
+    background: rgba(255, 255, 255, 0.2)
+}
+
+.pcoded[layout-type="dark"] .email-card .user-body .label-list a,
+body.dark .email-card .user-body .label-list a {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .email-card .mail-body-content tr:hover,
+body.dark .email-card .mail-body-content tr:hover {
+    background: rgba(255, 255, 255, 0.2)
+}
+
+.pcoded[layout-type="dark"] .email-card .mail-body-content .unread a,
+body.dark .email-card .mail-body-content .unread a {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .email-card .mail-body-content .read a,
+body.dark .email-card .mail-body-content .read a {
+    color: #e6e6e6
+}
+
+.pcoded[layout-type="dark"] .email-card .user-mail h6,
+body.dark .email-card .user-mail h6 {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .wall-img-preview .wall-item,
+body.dark .wall-img-preview .wall-item {
+    border: 2px solid #4a5a77
+}
+
+.pcoded[layout-type="dark"] .msg-send,
+body.dark .msg-send {
+    background: #506180
+}
+
+.pcoded[layout-type="dark"] .filter-bar>.navbar,
+body.dark .filter-bar>.navbar {
+    background: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .navbar-light .navbar-nav .active>.nav-link,
+.pcoded[layout-type="dark"] .navbar-light .navbar-nav .nav-link,
+.pcoded[layout-type="dark"] .navbar-light .navbar-nav .nav-link.active,
+.pcoded[layout-type="dark"] .navbar-light .navbar-nav .nav-link.show,
+.pcoded[layout-type="dark"] .navbar-light .navbar-nav .show>.nav-link,
+body.dark .navbar-light .navbar-nav .active>.nav-link,
+body.dark .navbar-light .navbar-nav .nav-link,
+body.dark .navbar-light .navbar-nav .nav-link.active,
+body.dark .navbar-light .navbar-nav .nav-link.show,
+body.dark .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] #task-container li,
+body.dark #task-container li {
+    background: #546686;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .text-inverse,
+body.dark .text-inverse {
+    color: #fff !important
+}
+
+.pcoded[layout-type="dark"] .note-card .note-write,
+body.dark .note-card .note-write {
+    background: -webkit-linear-gradient(top, #6a7fa3 0%, #8a9ab6 5%) 0 0;
+    background-size: 100% 35px
+}
+
+.pcoded[layout-type="dark"] .note-card .note-box-aside,
+body.dark .note-card .note-box-aside {
+    border-right: 1px solid #546686
+}
+
+.pcoded[layout-type="dark"] .invoice-table,
+body.dark .invoice-table {
+    border-left: none
+}
+
+.pcoded[layout-type="dark"] .invoice-total,
+.pcoded[layout-type="dark"] .thead-default th,
+body.dark .invoice-total,
+body.dark .thead-default th {
+    background: #404E67
+}
+
+.pcoded[layout-type="dark"] #external-events .fc-event,
+.pcoded[layout-type="dark"] .danger-nav,
+.pcoded[layout-type="dark"] .fc-state-default,
+.pcoded[layout-type="dark"] .info-nav,
+.pcoded[layout-type="dark"] .light-nav-border,
+.pcoded[layout-type="dark"] .primary-nav,
+.pcoded[layout-type="dark"] .warning-nav,
+.pcoded[layout-type="dark"] .success-nav,
+.pcoded[layout-type="dark"] .info-nav,
+.pcoded[layout-type="dark"] .danger-nav,
+.pcoded[layout-type="dark"] .primary-nav,
+.pcoded[layout-type="dark"] .success-nav,
+.pcoded[layout-type="dark"] .warning-nav,
+body.dark #external-events .fc-event,
+body.dark .danger-nav,
+body.dark .fc-state-default,
+body.dark .info-nav,
+body.dark .light-nav-border,
+body.dark .primary-nav,
+body.dark .warning-nav,
+body.dark .success-nav,
+body.dark .info-nav,
+body.dark .danger-nav,
+body.dark .primary-nav,
+body.dark .success-nav,
+body.dark .warning-nav {
+    background-color: #546686;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .jFiler-input-dragDrop,
+.pcoded[layout-type="dark"] .jFiler-theme-default .jFiler-input,
+body.dark .jFiler-input-dragDrop,
+body.dark .jFiler-theme-default .jFiler-input {
+    background-color: #465570
+}
+
+.pcoded[layout-type="dark"] .danger-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .info-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .light-nav-border .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .primary-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .warning-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .success-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .info-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .danger-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .primary-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .success-nav .navbar-varient-submenu,
+.pcoded[layout-type="dark"] .warning-nav .navbar-varient-submenu,
+body.dark .danger-nav .navbar-varient-submenu,
+body.dark .info-nav .navbar-varient-submenu,
+body.dark .light-nav-border .navbar-varient-submenu,
+body.dark .primary-nav .navbar-varient-submenu,
+body.dark .warning-nav .navbar-varient-submenu,
+body.dark .success-nav .navbar-varient-submenu,
+body.dark .info-nav .navbar-varient-submenu,
+body.dark .danger-nav .navbar-varient-submenu,
+body.dark .primary-nav .navbar-varient-submenu,
+body.dark .success-nav .navbar-varient-submenu,
+body.dark .warning-nav .navbar-varient-submenu {
+    background-color: #4e5f7d;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .danger-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .info-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .light-nav-border .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .primary-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .warning-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .success-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .info-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .danger-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .primary-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .success-nav .navbar-varient-submenu a:hover,
+.pcoded[layout-type="dark"] .warning-nav .navbar-varient-submenu a:hover,
+body.dark .danger-nav .navbar-varient-submenu a:hover,
+body.dark .info-nav .navbar-varient-submenu a:hover,
+body.dark .light-nav-border .navbar-varient-submenu a:hover,
+body.dark .primary-nav .navbar-varient-submenu a:hover,
+body.dark .warning-nav .navbar-varient-submenu a:hover,
+body.dark .success-nav .navbar-varient-submenu a:hover,
+body.dark .info-nav .navbar-varient-submenu a:hover,
+body.dark .danger-nav .navbar-varient-submenu a:hover,
+body.dark .primary-nav .navbar-varient-submenu a:hover,
+body.dark .success-nav .navbar-varient-submenu a:hover,
+body.dark .warning-nav .navbar-varient-submenu a:hover {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .card.version .card-header .card-header-right,
+body.dark .card.version .card-header .card-header-right {
+    background-color: #4a5a77;
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .version .nav li:first-child,
+body.dark .version .nav li:first-child {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .version .nav li:hover,
+body.dark .version .nav li:hover {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .version .nav li a,
+body.dark .version .nav li a {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] .main-timeline,
+body.dark .main-timeline {
+    background-color: #4a5a77
+}
+
+.pcoded[layout-type="dark"] .main-timeline .bg-white,
+body.dark .main-timeline .bg-white {
+    background-color: #546686 !important
+}
+
+.pcoded[layout-type="dark"] .main-timeline .cd-timeline-content,
+body.dark .main-timeline .cd-timeline-content {
+    background-color: #546686
+}
+
+.pcoded[layout-type="dark"] .main-timeline .cd-timeline-content h6,
+.pcoded[layout-type="dark"] .main-timeline .cd-timeline-content i,
+.pcoded[layout-type="dark"] .main-timeline .cd-timeline-content p,
+.pcoded[layout-type="dark"] .main-timeline .cd-timeline-content span,
+body.dark .main-timeline .cd-timeline-content h6,
+body.dark .main-timeline .cd-timeline-content i,
+body.dark .main-timeline .cd-timeline-content p,
+body.dark .main-timeline .cd-timeline-content span {
+    color: #fff
+}
+
+.pcoded[layout-type="dark"] #styleSelector,
+body.dark #styleSelector {
+    color: #404E67
+}
+
+.pcoded[layout-type="dark"] #styleSelector .form-control,
+body.dark #styleSelector .form-control {
+    color: #404E67
+}

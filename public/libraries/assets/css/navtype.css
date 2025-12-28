@@ -1,0 +1,2750 @@
+.pcoded[nav-type="st1"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon
+  i {
+  display: none;
+}
+
+.pcoded[nav-type="st2"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st6"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon
+  b {
+  display: none;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(106, 184, 247, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0960a5;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 194, 202, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff0f30;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(73, 236, 187, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0c7757;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 213, 154, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  i {
+  color: #e68800;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(198, 164, 152, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  i {
+  color: #6f4a3d;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(106, 202, 208, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  i {
+  color: #216367;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(180, 154, 255, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  i {
+  color: #3d00e6;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 160, 176, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ec0028;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(106, 184, 247, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0960a5;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 194, 202, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff0f30;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(73, 236, 187, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0c7757;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 213, 154, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  i {
+  color: #e68800;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(198, 164, 152, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  i {
+  color: #6f4a3d;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(106, 202, 208, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  i {
+  color: #216367;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(180, 154, 255, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  i {
+  color: #3d00e6;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 160, 176, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ec0028;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(106, 184, 247, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0960a5;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 194, 202, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff0f30;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(73, 236, 187, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0c7757;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 213, 154, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  i {
+  color: #e68800;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(198, 164, 152, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  i {
+  color: #6f4a3d;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(106, 202, 208, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  i {
+  color: #216367;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(180, 154, 255, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  i {
+  color: #3d00e6;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon {
+  background-color: rgba(255, 160, 176, 0.5);
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-navbar[navbar-theme*="themelight"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ec0028;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon {
+  background-color: #6ab8f7;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0960a5;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon {
+  background-color: #ffc2ca;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff0f30;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon {
+  background-color: #49ecbb;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0c7757;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon {
+  background-color: #ffd59a;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  i {
+  color: #e68800;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon {
+  background-color: #c6a498;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  i {
+  color: #6f4a3d;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon {
+  background-color: #6acad0;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  i {
+  color: #216367;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon {
+  background-color: #b49aff;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  i {
+  color: #3d00e6;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon {
+  background-color: #ffa0b0;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ec0028;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon {
+  background-color: #6ab8f7;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0960a5;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon {
+  background-color: #ffc2ca;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff0f30;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon {
+  background-color: #49ecbb;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0c7757;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon {
+  background-color: #ffd59a;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  i {
+  color: #e68800;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon {
+  background-color: #c6a498;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  i {
+  color: #6f4a3d;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon {
+  background-color: #6acad0;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  i {
+  color: #216367;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon {
+  background-color: #b49aff;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  i {
+  color: #3d00e6;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon {
+  background-color: #ffa0b0;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ec0028;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon {
+  background-color: #6ab8f7;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0960a5;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon {
+  background-color: #ffc2ca;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff0f30;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon {
+  background-color: #49ecbb;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  i {
+  color: #0c7757;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon {
+  background-color: #ffd59a;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  i {
+  color: #e68800;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon {
+  background-color: #c6a498;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  i {
+  color: #6f4a3d;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon {
+  background-color: #6acad0;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  i {
+  color: #216367;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon {
+  background-color: #b49aff;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  i {
+  color: #3d00e6;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon {
+  background-color: #ffa0b0;
+}
+
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st3"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  i,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  b,
+.pcoded[nav-type="st4"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ec0028;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(1)
+  > a
+  > .pcoded-micon
+  i {
+  color: #2196f3;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(2)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff7588;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(3)
+  > a
+  > .pcoded-micon
+  i {
+  color: #16d39a;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(4)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ffb64d;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(5)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ab7967;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(6)
+  > a
+  > .pcoded-micon
+  i {
+  color: #39adb5;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(7)
+  > a
+  > .pcoded-micon
+  i {
+  color: #7c4dff;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(8)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff5370;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(9)
+  > a
+  > .pcoded-micon
+  i {
+  color: #2196f3;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(10)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff7588;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(11)
+  > a
+  > .pcoded-micon
+  i {
+  color: #16d39a;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(12)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ffb64d;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(13)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ab7967;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(14)
+  > a
+  > .pcoded-micon
+  i {
+  color: #39adb5;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(15)
+  > a
+  > .pcoded-micon
+  i {
+  color: #7c4dff;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(16)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff5370;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(17)
+  > a
+  > .pcoded-micon
+  i {
+  color: #2196f3;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(18)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff7588;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(19)
+  > a
+  > .pcoded-micon
+  i {
+  color: #16d39a;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(20)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ffb64d;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(21)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ab7967;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(22)
+  > a
+  > .pcoded-micon
+  i {
+  color: #39adb5;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(23)
+  > a
+  > .pcoded-micon
+  i {
+  color: #7c4dff;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st5"]
+  .pcoded-item.pcoded-left-item
+  > li:nth-child(24)
+  > a
+  > .pcoded-micon
+  i {
+  color: #ff5370;
+}
+
+.pcoded[nav-type="st6"] .pcoded-item.pcoded-left-item > li > a > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st6"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon
+  i {
+  color: #c3c3c3;
+}
+
+.pcoded[nav-type="st6"]
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon {
+  background-color: transparent;
+}
+
+.pcoded[nav-type="st6"]
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item.pcoded-left-item
+  > li
+  > a
+  > .pcoded-micon
+  i {
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li.active
+  > a {
+  font-weight: 600;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  li.pcoded-hasmenu:hover
+  > a {
+  color: #000 !important;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item li:hover > a {
+  color: #000 !important;
+  background: #fff;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] {
+  background: #fff;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .main-menu {
+  background-color: #fff;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .main-menu
+  .main-menu-header {
+  background-color: #fff;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .main-menu
+  .main-menu-header
+  .user-details
+  span {
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .main-menu
+  .main-menu-content
+  .more-details
+  a {
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  li.pcoded-hasmenu
+  .pcoded-submenu {
+  background: #fff;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  li.pcoded-hasmenu
+  .pcoded-submenu
+  li
+  > a {
+  border-bottom-color: #e6e6e6;
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.pcoded-hasmenu
+  > a:after,
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.pcoded-hasmenu
+  .pcoded-submenu
+  li.pcoded-hasmenu
+  > a:after {
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.pcoded-hasmenu.pcoded-trigger
+  > a:after,
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.pcoded-hasmenu.pcoded-trigger
+  .pcoded-submenu
+  li.pcoded-hasmenu.pcoded-trigger
+  > a:after {
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.active:hover
+  > a,
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item > li:hover > a {
+  background: #fff;
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  .pcoded-hasmenu
+  .pcoded-submenu
+  li:hover
+  > a {
+  background-color: #fff;
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  .pcoded-hasmenu
+  .pcoded-submenu
+  li.active
+  > a {
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  .pcoded-hasmenu
+  .pcoded-submenu
+  li.active
+  > a
+  .pcoded-mtext:before {
+  border-bottom-color: #fff;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  .pcoded-hasmenu
+  .pcoded-submenu
+  li
+  > a
+  .pcoded-mtext:before {
+  border-bottom-color: #fff;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.pcoded-hasmenu:hover
+  > a:after {
+  color: #000;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.pcoded-trigger
+  > a {
+  background: #fff;
+  border-bottom-color: #fff;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.pcoded-trigger.active
+  > a {
+  background: #fff;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item > li > a {
+  color: #000 !important;
+}
+
+.pcoded
+  .pcoded-navbar[navbar-theme="themelight1"]
+  .pcoded-item
+  > li.active
+  > a {
+  background: #fff !important;
+  color: #fff;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-item > li > a {
+  border-bottom-color: #fff;
+}
+
+.pcoded .pcoded-navbar[navbar-theme="themelight1"] .pcoded-navigatio-lavel {
+  color: #fff;
+  border-bottom-color: transparent;
+}

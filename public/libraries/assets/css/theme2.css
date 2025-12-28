@@ -1,0 +1,74 @@
+
+.pcoded .pcoded-navbar .pcoded-navigatio-lavel[menu-title-theme="theme2"] {
+  color: #624e89 !important
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item li .pcoded-submenu li.active>a,
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item li .pcoded-submenu li:hover>a {
+    color: #FF7588 !important
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item li .pcoded-submenu li.active>a {
+    font-weight: 600
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item li.pcoded-hasmenu:hover>a {
+    color: #FFF !important
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item li:hover>a {
+    color: #fff !important;
+    background: #FF7588
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item>li.pcoded-trigger .pcoded-submenu li>a:before,
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item>li.active .pcoded-submenu li>a:before {
+    border-left-color: #FF7588 !important
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item>li.pcoded-trigger>a:before,
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .pcoded-item>li.active>a:before {
+    border-left-color: #FF7588 !important
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme2"] .searchbar-toggle {
+    color: #FF7588
+}
+
+.pcoded .pcoded-header .navbar-logo[logo-theme="theme2"] {
+  background-color: #FF7588
+}
+
+.theme-color a[lheader-theme="theme2"] {
+  background: #624e89
+}
+
+.theme-color a[header-theme="theme2"] .head:after,
+.theme-color a[header-theme="theme2"] .head:before {
+    background: #FF7588
+}
+
+.theme-color a[logo-theme="theme2"] .head:after {
+  background: #FF7588
+}
+
+.theme-color a[active-item-theme="theme2"] {
+  background: #FF7588
+}
+
+.theme-color a[sub-item-theme="theme2"] {
+  background: #3498DB
+}
+
+.pcoded .pcoded-header[header-theme="theme2"] {
+  background: #FF7588;
+  color: #fff
+}
+
+.pcoded .pcoded-header[header-theme="theme2"] a {
+  color: #fff
+}
+
+.pcoded .pcoded-header[header-theme="theme2"] .navbar-wrapper .header-search .main-search .input-group .input-group-addon {
+  color: #fff
+}

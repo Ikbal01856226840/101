@@ -1,0 +1,221 @@
+.toolbar-primary .tool-item {
+  background: #01a9ac !important;
+}
+
+.toolbar-primary .tool-item.selected,
+.toolbar-primary .tool-item:hover {
+  background: #017779 !important;
+}
+
+.toolbar-primary.tool-top .arrow {
+  border-color: #01a9ac transparent transparent;
+}
+
+.toolbar-primary.tool-bottom .arrow {
+  border-color: transparent transparent #01a9ac;
+}
+
+.toolbar-primary.tool-left .arrow {
+  border-color: transparent transparent transparent #01a9ac;
+}
+
+.toolbar-primary.tool-right .arrow {
+  border-color: transparent #01a9ac transparent transparent;
+}
+
+.btn-toolbar-primary.pressed {
+  background-color: #01a9ac;
+}
+
+.toolbar-warning .tool-item {
+  background: #fe9365 !important;
+}
+
+.toolbar-warning .tool-item.selected,
+.toolbar-warning .tool-item:hover {
+  background: #fe6f32 !important;
+}
+
+.toolbar-warning.tool-top .arrow {
+  border-color: #fe9365 transparent transparent;
+}
+
+.toolbar-warning.tool-bottom .arrow {
+  border-color: transparent transparent #fe9365;
+}
+
+.toolbar-warning.tool-left .arrow {
+  border-color: transparent transparent transparent #fe9365;
+}
+
+.toolbar-warning.tool-right .arrow {
+  border-color: transparent #fe9365 transparent transparent;
+}
+
+.btn-toolbar-warning.pressed {
+  background-color: #fe9365;
+}
+
+.toolbar-light .tool-item {
+  background: #e0e0e0 !important;
+}
+
+.toolbar-light .tool-item.selected,
+.toolbar-light .tool-item:hover {
+  background: #c7c7c7 !important;
+}
+
+.toolbar-light.tool-top .arrow {
+  border-color: #e0e0e0 transparent transparent;
+}
+
+.toolbar-light.tool-bottom .arrow {
+  border-color: transparent transparent #e0e0e0;
+}
+
+.toolbar-light.tool-left .arrow {
+  border-color: transparent transparent transparent #e0e0e0;
+}
+
+.toolbar-light.tool-right .arrow {
+  border-color: transparent #e0e0e0 transparent transparent;
+}
+
+.btn-toolbar-light.pressed {
+  background-color: #e0e0e0;
+}
+
+.toolbar-danger .tool-item {
+  background: #fe5d70 !important;
+}
+
+.toolbar-danger .tool-item.selected,
+.toolbar-danger .tool-item:hover {
+  background: #fe2a43 !important;
+}
+
+.toolbar-danger.tool-top .arrow {
+  border-color: #fe5d70 transparent transparent;
+}
+
+.toolbar-danger.tool-bottom .arrow {
+  border-color: transparent transparent #fe5d70;
+}
+
+.toolbar-danger.tool-left .arrow {
+  border-color: transparent transparent transparent #fe5d70;
+}
+
+.toolbar-danger.tool-right .arrow {
+  border-color: transparent #fe5d70 transparent transparent;
+}
+
+.btn-toolbar-danger.pressed {
+  background-color: #fe5d70;
+}
+
+.toolbar-success .tool-item {
+  background: #0ac282 !important;
+}
+
+.toolbar-success .tool-item.selected,
+.toolbar-success .tool-item:hover {
+  background: #089262 !important;
+}
+
+.toolbar-success.tool-top .arrow {
+  border-color: #0ac282 transparent transparent;
+}
+
+.toolbar-success.tool-bottom .arrow {
+  border-color: transparent transparent #0ac282;
+}
+
+.toolbar-success.tool-left .arrow {
+  border-color: transparent transparent transparent #0ac282;
+}
+
+.toolbar-success.tool-right .arrow {
+  border-color: transparent #0ac282 transparent transparent;
+}
+
+.btn-toolbar-success.pressed {
+  background-color: #0ac282;
+}
+
+.toolbar-dark .tool-item {
+  background: #404e67 !important;
+}
+
+.toolbar-dark .tool-item.selected,
+.toolbar-dark .tool-item:hover {
+  background: #2c3648 !important;
+}
+
+.toolbar-dark.tool-top .arrow {
+  border-color: #404e67 transparent transparent;
+}
+
+.toolbar-dark.tool-bottom .arrow {
+  border-color: transparent transparent #404e67;
+}
+
+.toolbar-dark.tool-left .arrow {
+  border-color: transparent transparent transparent #404e67;
+}
+
+.toolbar-dark.tool-right .arrow {
+  border-color: transparent #404e67 transparent transparent;
+}
+
+.btn-toolbar-dark.pressed {
+  background-color: #404e67;
+}
+
+.toolbar-info .tool-item {
+  background: #2dcee3 !important;
+}
+
+.toolbar-info .tool-item.selected,
+.toolbar-info .tool-item:hover {
+  background: #1ab0c3 !important;
+}
+
+.toolbar-info.tool-top .arrow {
+  border-color: #2dcee3 transparent transparent;
+}
+
+.toolbar-info.tool-bottom .arrow {
+  border-color: transparent transparent #2dcee3;
+}
+
+.toolbar-info.tool-left .arrow {
+  border-color: transparent transparent transparent #2dcee3;
+}
+
+.toolbar-info.tool-right .arrow {
+  border-color: transparent #2dcee3 transparent transparent;
+}
+
+.btn-toolbar-info.pressed {
+  background-color: #2dcee3;
+}
+
+.fc-toolbar {
+  margin-bottom: 8px;
+}
+
+.fc-toolbar .fc-center {
+  display: block;
+}
+.fc-toolbar .fc-left {
+  float: right;
+}
+
+.fc-button-group {
+  margin-right: 10px;
+}
+
+.fc .fc-toolbar > * > * {
+  margin-left: 0;
+}

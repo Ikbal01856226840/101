@@ -1,0 +1,30 @@
+body {
+    overflow: hidden;
+}
+.card-block {
+    padding: 0.25rem;
+}
+.card {
+    margin-bottom: -28px;
+}
+/* responsive */
+@media only screen and (max-width: 1200px) {
+    .top-navber{
+        margin-top: 5px !important;
+    }
+    .main-body .page-wrapper .align-items-end .page-header-title {
+         margin-top: 0px !important;
+    }
+    .margin{
+        margin-left: 0px !important;
+    }
+    .width{
+        width:170px !important;
+    }
+    .fa {
+        display: math !important;
+    }
+    .foot{
+      display: none !important;
+   }
+}

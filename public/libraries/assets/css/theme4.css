@@ -1,0 +1,121 @@
+.pcoded .pcoded-navbar .pcoded-navigatio-lavel[menu-title-theme="theme4"] {
+  color: #919aa3 !important;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme4"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li.active
+  > a,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme4"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li:hover
+  > a {
+  color: #2196f3 !important;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme4"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li.active
+  > a {
+  font-weight: 600;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme4"]
+  .pcoded-item
+  li.pcoded-hasmenu:hover
+  > a {
+  color: #fff !important;
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme4"] .pcoded-item li:hover > a {
+  color: #fff !important;
+  background: #2196f3;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme4"]
+  .pcoded-item
+  > li.pcoded-trigger
+  .pcoded-submenu
+  li
+  > a:before,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme4"]
+  .pcoded-item
+  > li.active
+  .pcoded-submenu
+  li
+  > a:before {
+  border-left-color: #2196f3 !important;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme4"]
+  .pcoded-item
+  > li.pcoded-trigger
+  > a:before,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme4"]
+  .pcoded-item
+  > li.active
+  > a:before {
+  border-left-color: #2196f3 !important;
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme4"] .searchbar-toggle {
+  color: #2196f3;
+}
+
+.pcoded .pcoded-header .navbar-logo[logo-theme="theme4"] {
+  background-color: #16d39a;
+}
+
+.theme-color a[lheader-theme="theme4"] {
+  background: #919aa3;
+}
+
+.theme-color a[header-theme="theme4"] .head:after,
+.theme-color a[header-theme="theme4"] .head:before {
+  background: #16d39a;
+}
+
+.theme-color a[logo-theme="theme4"] .head:after {
+  background: #16d39a;
+}
+
+.theme-color a[active-item-theme="theme4"] {
+  background: #2196f3;
+}
+
+.theme-color a[sub-item-theme="theme4"] {
+  background: #e7604a;
+}
+
+.pcoded .pcoded-header[header-theme="theme4"] {
+  background: #16d39a;
+  color: #fff;
+}
+
+.pcoded .pcoded-header[header-theme="theme4"] a {
+  color: #fff;
+}
+
+.pcoded
+  .pcoded-header[header-theme="theme4"]
+  .navbar-wrapper
+  .header-search
+  .main-search
+  .input-group
+  .input-group-addon {
+  color: #fff;
+}

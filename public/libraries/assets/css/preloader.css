@@ -1,0 +1,359 @@
+.preloader3 > div {
+  margin: 2px;
+  background-color: #01a9ac;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  -webkit-animation: stretchdelay 0.7s infinite ease-in-out;
+  animation: stretchdelay 0.7s infinite ease-in-out;
+}
+
+.preloader3 .circ2 {
+  -webkit-animation-delay: -0.6s;
+  animation-delay: -0.6s;
+}
+
+.preloader3 .circ3 {
+  -webkit-animation-delay: -0.5s;
+  animation-delay: -0.5s;
+}
+
+.preloader3 .circ4 {
+  -webkit-animation-delay: -0.4s;
+  animation-delay: -0.4s;
+}
+
+.preloader3 .circ5 {
+  -webkit-animation-delay: -0.3s;
+  animation-delay: -0.3s;
+}
+
+.preloader3 .loader-md {
+  height: 13px;
+  width: 13px;
+}
+
+.preloader3 .loader-lg {
+  height: 18px;
+  width: 18px;
+}
+
+.preloader3 {
+  width: auto;
+  height: 130px;
+  text-align: center;
+  font-size: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.preloader4 {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  margin: 55px auto;
+}
+
+.preloader5 {
+  margin: 55px 0;
+  text-align: center;
+}
+
+.preloader5 .circle-5 {
+  display: inline-block;
+  padding: 11px;
+  margin: 0 0.6em;
+  background: #01a9ac;
+  border-radius: 100%;
+}
+
+.preloader5 .l {
+  -webkit-animation: pulse 2s infinite linear;
+  animation: pulse 2s infinite linear;
+}
+
+.preloader5 .m {
+  -webkit-animation: pulse 2s infinite linear;
+  animation: pulse 2s infinite linear;
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+
+.preloader5 .r {
+  -webkit-animation: pulse 2s infinite linear;
+  animation: pulse 2s infinite linear;
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
+
+.preloader6 {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  background: inherit;
+  margin: 18px 0;
+}
+
+.preloader6 hr {
+  border: 0;
+  background: inherit;
+  width: 80%;
+  height: 80%;
+  margin: 10%;
+  border-radius: 100%;
+}
+
+.preloader6::before,
+.preloader6::after,
+.preloader6 hr::before,
+.preloader6 hr::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  left: 33px;
+  border: 17px solid transparent;
+  border-bottom: 50px solid #01a9ac;
+  border-top: 50px solid #01a9ac;
+  -webkit-animation: rotateColor 1000ms infinite;
+  animation: rotateColor 1000ms infinite;
+}
+
+.preloader6::after {
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-animation-delay: 125ms;
+  animation-delay: 125ms;
+}
+
+.preloader6 hr::before {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+  -webkit-animation-delay: 250ms;
+  animation-delay: 250ms;
+}
+
+.preloader6 hr::after {
+  -webkit-transform: rotate(135deg);
+  transform: rotate(135deg);
+  -webkit-animation-delay: 375ms;
+  animation-delay: 375ms;
+}
+
+.loader {
+  margin: 18px auto;
+  top: 65px;
+  left: 65px;
+  right: 0;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.loader.animation-start .circle {
+  -webkit-animation: rotating 2s ease-in-out infinite;
+  animation: rotating 2s ease-in-out infinite;
+}
+
+.loader.animation-stop .circle {
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}
+
+.loader .circle {
+  width: 50px;
+  height: 50px;
+  display: block;
+  position: absolute;
+  -webkit-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-animation-iteration-count: 0;
+  animation-iteration-count: 0;
+}
+
+.loader .circle:after {
+  content: "";
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 10px;
+  display: block;
+  border-radius: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: #1abc9c;
+}
+
+.loader .circle.delay-1 {
+  -webkit-animation-delay: 0.125s;
+  animation-delay: 0.125s;
+}
+
+.loader .circle.size-1:after {
+  width: 11px;
+  height: 11px;
+}
+
+.loader .circle.delay-2 {
+  -webkit-animation-delay: 0.25s;
+  animation-delay: 0.25s;
+}
+
+.loader .circle.size-2:after {
+  width: 12px;
+  height: 12px;
+}
+
+.loader .circle.delay-3 {
+  -webkit-animation-delay: 0.375s;
+  animation-delay: 0.375s;
+}
+
+.loader .circle.size-3:after {
+  width: 13px;
+  height: 13px;
+}
+
+.loader .circle.delay-4 {
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+
+.loader .circle.size-4:after {
+  width: 14px;
+  height: 14px;
+}
+
+.loader .circle.delay-5 {
+  -webkit-animation-delay: 0.625s;
+  animation-delay: 0.625s;
+}
+
+.loader .circle.size-5:after {
+  width: 15px;
+  height: 15px;
+}
+
+.loader .circle.delay-6 {
+  -webkit-animation-delay: 0.75s;
+  animation-delay: 0.75s;
+}
+
+.loader .circle.size-6:after {
+  width: 16px;
+  height: 16px;
+}
+
+.loader .circle.delay-7 {
+  -webkit-animation-delay: 0.875s;
+  animation-delay: 0.875s;
+}
+
+.loader .circle.size-7:after {
+  width: 17px;
+  height: 17px;
+}
+
+.loader .circle.delay-8 {
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+.loader .circle.size-8:after {
+  width: 18px;
+  height: 18px;
+}
+
+.loader .circle.delay-9 {
+  -webkit-animation-delay: 1.125s;
+  animation-delay: 1.125s;
+}
+
+.loader .circle.size-9:after {
+  width: 19px;
+  height: 19px;
+}
+
+.loader .circle.delay-10 {
+  -webkit-animation-delay: 1.25s;
+  animation-delay: 1.25s;
+}
+
+.loader .circle.size-10:after {
+  width: 20px;
+  height: 20px;
+}
+
+.loader .circle.delay-11 {
+  -webkit-animation-delay: 1.375s;
+  animation-delay: 1.375s;
+}
+
+.loader .circle.size-11:after {
+  width: 21px;
+  height: 21px;
+}
+
+.loader .circle.delay-12 {
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+
+.loader .circle.size-12:after {
+  width: 22px;
+  height: 22px;
+}
+
+.loader-block,
+.loader {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.loader-primary {
+  background-color: #01a9ac !important;
+}
+
+.loader-warning {
+  background-color: #fe9365 !important;
+}
+
+.loader-default {
+  background-color: #e0e0e0 !important;
+}
+
+.loader-danger {
+  background-color: #fe5d70 !important;
+}
+
+.loader-success {
+  background-color: #0ac282 !important;
+}
+
+.loader-inverse {
+  background-color: #404e67 !important;
+}
+
+.loader-info {
+  background-color: #2dcee3 !important;
+}

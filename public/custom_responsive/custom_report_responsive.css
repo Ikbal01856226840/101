@@ -1,0 +1,28 @@
+
+body {
+    overflow: hidden;
+    /* Hide scrollbars */
+}
+.card-block {
+    padding: 0.25rem;
+}
+.card {
+    margin-bottom: -28px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .foot{
+      display: none !important;
+   }
+   
+    .top-navber{
+        margin-top: 5px !important;
+    }
+    body {
+    overflow:auto !important;
+    / Hide scrollbars /
+   }
+   .sd{
+    height: auto !important;
+   },
+}

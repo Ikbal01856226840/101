@@ -1,0 +1,113 @@
+.pcoded
+  .pcoded-navbar[active-item-theme="theme6"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li.active
+  > a,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme6"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li:hover
+  > a {
+  color: #ff5e3a !important;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme6"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li.active
+  > a {
+  font-weight: 600;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme6"]
+  .pcoded-item
+  li.pcoded-hasmenu:hover
+  > a {
+  color: #fff !important;
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme6"] .pcoded-item li:hover > a {
+  color: #fff !important;
+  background: #ff5e3a;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme6"]
+  .pcoded-item
+  > li.pcoded-trigger
+  .pcoded-submenu
+  li
+  > a:before,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme6"]
+  .pcoded-item
+  > li.active
+  .pcoded-submenu
+  li
+  > a:before {
+  border-left-color: #ff5e3a !important;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme6"]
+  .pcoded-item
+  > li.pcoded-trigger
+  > a:before,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme6"]
+  .pcoded-item
+  > li.active
+  > a:before {
+  border-left-color: #ff5e3a !important;
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme6"] .searchbar-toggle {
+  color: #ff5e3a;
+}
+
+.pcoded .pcoded-navbar .pcoded-navigatio-lavel[menu-title-theme="theme6"] {
+  color: #fff !important;
+}
+
+.pcoded .pcoded-header[header-theme="theme6"] {
+  background: #404e67;
+  color: #fff;
+}
+
+.pcoded .pcoded-header[header-theme="theme6"] a {
+  color: #fff;
+}
+
+.pcoded
+  .pcoded-header[header-theme="theme6"]
+  .navbar-wrapper
+  .header-search
+  .main-search
+  .input-group
+  .input-group-addon {
+  color: #fff;
+}
+
+.theme-color a[sub-item-theme="theme6"] {
+  background: #624e89;
+}
+
+.theme-color a[active-item-theme="theme6"] {
+  background: #ff5e3a;
+}
+
+.theme-color a[header-theme="theme6"] .head:after,
+.theme-color a[header-theme="theme6"] .head:before {
+  background: #404e67;
+}
+
+.theme-color a[lheader-theme="theme6"] {
+  background: #fff;
+}

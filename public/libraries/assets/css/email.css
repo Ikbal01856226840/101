@@ -1,0 +1,237 @@
+
+.email-card {
+  padding: 0 15px
+}
+
+.email-card .user-head {
+  background-color: #01a9ac;
+  padding: 10px;
+  min-height: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center
+}
+
+.email-card .user-head .user-name {
+  margin-left: 10px;
+  margin-bottom: 10px
+}
+
+.email-card .user-head .user-name span {
+  display: block;
+  color: #fff
+}
+
+.email-card label {
+  margin-bottom: 0
+}
+
+.email-card .user-body {
+  margin-left: -15px;
+  margin-right: -15px;
+  background-color: #fff
+}
+
+.email-card .user-body .page-list {
+  border-bottom: 0px solid transparent
+}
+
+.email-card .user-body .page-list li {
+  text-transform: capitalize;
+  border-bottom: 1px solid #e9ecef;
+  -webkit-transition: all ease-in .3s;
+  transition: all ease-in .3s;
+  cursor: pointer
+}
+
+.email-card .user-body .page-list li.mail-section {
+  display: block;
+  margin-bottom: 0
+}
+
+.email-card .user-body .page-list li.mail-section a {
+  padding: 15px 20px;
+  border-radius: 0px !important;
+  color: #404E67;
+  border: 0px solid transparent
+}
+
+.email-card .user-body .page-list li.mail-section a.active,
+.email-card .user-body .page-list li.mail-section a:hover {
+  color: #01a9ac;
+  background-color: #48fbfe
+}
+
+.email-card .user-body .page-list li i {
+  margin-right: 10px
+}
+
+.email-card .user-body .page-list li:last-child {
+  border-bottom: 0px solid transparent
+}
+
+.email-card .user-body .label-list a {
+  padding: 10px 20px;
+  display: block;
+  color: #6a6a6a;
+  position: relative;
+  padding-left: 25px
+}
+
+.email-card .user-body .label-list a:before {
+  content: '';
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  border-radius: 50px;
+  left: 0;
+  top: 16px
+}
+
+.email-card .user-body .label-list a.mail-work:before {
+  background-color: #01a9ac
+}
+
+.email-card .user-body .label-list a.mail-design:before {
+  background-color: #2DCEE3
+}
+
+.email-card .user-body .label-list a.mail-family:before {
+  background-color: #0ac282
+}
+
+.email-card .user-body .label-list a.mail-friends:before {
+  background-color: #fe9365
+}
+
+.email-card .user-body .label-list a.mail-office:before {
+  background-color: #fe5d70
+}
+
+.email-card .mail-box-head {
+  background-color: #01a9ac;
+  min-height: 80px;
+  padding: 20px 0
+}
+
+.email-card .mail-box-head h3 {
+  color: #fff
+}
+
+.email-card .mail-box-head .input-group {
+  margin-bottom: 0
+}
+
+.email-card .mail-body {
+  padding: 20px 0
+}
+
+.email-card .mail-body .mail-body-header {
+  margin-bottom: 20px
+}
+
+.email-card .mail-body .mail-body-header .btn,
+.email-card .mail-body .mail-body-header .btn-group {
+  margin: 2px
+}
+
+.email-card .mail-body-content .check-star {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center
+}
+
+.email-card .mail-body-content .check-star .icofont-star {
+  margin-top: -8px
+}
+
+.email-card .mail-body-content tr {
+  -webkit-transition: all ease-in .3s;
+  transition: all ease-in .3s
+}
+
+.email-card .mail-body-content tr:hover {
+  background-color: #48fbfe;
+  cursor: pointer
+}
+
+.email-card .mail-body-content .unread a {
+  color: #222;
+  font-weight: 600
+}
+
+.email-card .mail-body-content .read a {
+  color: #222;
+  font-weight: 400
+}
+
+.email-summernote~.note-frame {
+  border: 1px solid #ddd;
+  border-radius: 2px
+}
+
+.email-read .photo-table {
+  padding-right: 10px
+}
+
+.email-read .user-name {
+  margin-bottom: 10px
+}
+
+.mail-body-content.email-read .card {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  margin-bottom: 0
+}
+
+.email-card .user-mail h6 {
+  font-size: 14px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  color: #292b2c
+}
+
+.email-content {
+  line-height: 30px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 15px
+}
+
+.mail-img {
+  margin-top: 20px
+}
+
+.email-welcome-txt {
+  font-weight: 600
+}
+
+@media only screen and (max-width: 640px) {
+  .email-read .card-header h6 {
+      float: none;
+      margin-top: 10px
+  }
+  .email-read .media {
+      display: inline-block
+  }
+  .email-read .media.m-b-20 {
+      margin-bottom: 0
+  }
+  .email-read .mail-img [class*="col-"] {
+      margin-bottom: 30px
+  }
+  .email-read .mail-img [class*="col-"]:last-child {
+      margin-bottom: 0
+  }
+}
+
+@media only screen and (max-width: 573px) {
+  .email-card .nav-tabs .nav-link {
+    text-align: left
+  }
+}

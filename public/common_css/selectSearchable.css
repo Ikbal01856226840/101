@@ -1,0 +1,113 @@
+.w3-select {
+    padding: 9px 0;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.w3-input {
+    padding: 4px;
+}
+.w3-select {
+    padding: 5px 0;
+}
+.w3-input,
+.w3-select {
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    /*-webkit-transition: 0.5s;*/
+    /*transition: 0.5s;*/
+    outline: none;
+}
+.w3-input:focus,
+.w3-select:focus {
+    border: 1px solid #555;
+    color: #000;
+    background-color: #8bc34a;
+}
+
+.w3-select {
+    padding: 5px 0;
+    width: 100%;
+    color: #000;
+}
+/*border:1px solid transparent;border-bottom:1px solid #009688*/
+/*border:1px solid #ccc;       border-bottom:1px solid #ccc*/
+
+/*.w3-select select:focus{color:#000;border:1px solid #009688}*/
+.w3-select option[disabled] {
+    color: #009688;
+}
+
+.w3-select option,
+.w3-select optgroup {
+    background-color: #fff;
+}
+
+.w3-input,
+.w3-select {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    /*-webkit-transition: 0.5s;*/
+    /*transition: 0.5s;*/
+    outline: none;
+}
+.w3-input:focus,
+.w3-select:focus {
+    border: 1px solid #555;
+    color: #000;
+    background-color: #8bc34a;
+}
+
+#results .selected,
+#results .unselected {
+    cursor: pointer;
+}
+
+#results {
+    border: 1px solid #bfbfbf;
+    font-size: 12px;
+    padding: 0px;
+    text-align: left;
+    min-width: 200px;
+}
+
+#results div {
+    border-bottom: 1px solid #bfbfbf;
+    padding: 3px;
+}
+#results .selected {
+    background-color: #666;
+    color: #fff;
+}
+#results .unselected {
+    background-color: #fff;
+    color: #666;
+}
+
+#auto_suggestion_div .selected,
+#auto_suggestion_div .unselected {
+    cursor: pointer;
+}
+
+#auto_suggestion_div {
+    /*border: 1px solid #BFBFBF;*/
+    border: 1px solid red;
+    font-size: 12px;
+    padding: 0px;
+    text-align: left;
+    min-width: 200px;
+}
+
+#auto_suggestion_div div {
+    border-bottom: 1px solid #bfbfbf;
+    padding: 3px;
+}
+#auto_suggestion_div .selected {
+    background-color: #666;
+    color: #fff;
+}
+#auto_suggestion_div .unselected {
+    background-color: #fff;
+    color: #666;
+}

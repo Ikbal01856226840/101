@@ -1,0 +1,77 @@
+.pcoded
+  .pcoded-navbar[active-item-theme="theme12"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li.active
+  > a,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme12"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li:hover
+  > a {
+  color: #7c4dff !important;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme12"]
+  .pcoded-item
+  li
+  .pcoded-submenu
+  li.active
+  > a {
+  font-weight: 600;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme12"]
+  .pcoded-item
+  li.pcoded-hasmenu:hover
+  > a {
+  color: #fff !important;
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme12"] .pcoded-item li:hover > a {
+  color: #fff !important;
+  background: #7c4dff;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme12"]
+  .pcoded-item
+  > li.pcoded-trigger
+  .pcoded-submenu
+  li
+  > a:before,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme12"]
+  .pcoded-item
+  > li.active
+  .pcoded-submenu
+  li
+  > a:before {
+  border-left-color: #7c4dff !important;
+}
+
+.pcoded
+  .pcoded-navbar[active-item-theme="theme12"]
+  .pcoded-item
+  > li.pcoded-trigger
+  > a:before,
+.pcoded
+  .pcoded-navbar[active-item-theme="theme12"]
+  .pcoded-item
+  > li.active
+  > a:before {
+  border-left-color: #7c4dff !important;
+}
+
+.pcoded .pcoded-navbar[active-item-theme="theme12"] .searchbar-toggle {
+  color: #7c4dff;
+}
+
+.theme-color a[active-item-theme="theme12"] {
+  background: #7c4dff;
+}

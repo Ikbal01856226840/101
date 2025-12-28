@@ -1,0 +1,284 @@
+.table-primary,
+.table-primary > td,
+.table-primary > th {
+  background-color: #01a9ac;
+}
+
+.table-responsive {
+  display: inline-block;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.table.table-xl td,
+.table.table-xl th {
+  padding: 1.25rem 2rem;
+}
+
+.table.table-lg td,
+.table.table-lg th {
+  padding: 0.9rem 2rem;
+}
+
+.table.table-de td,
+.table.table-de th {
+  padding: 0.75rem 2rem;
+}
+
+.table.table-sm td,
+.table.table-sm th {
+  padding: 0.6rem 2rem;
+}
+
+.table.table-xs td,
+.table.table-xs th {
+  padding: 0.4rem 2rem;
+}
+
+.table-columned > tbody > tr > td:first-child,
+.table-columned > tbody > tr > th:first-child {
+  border-left: 0;
+}
+
+.table-columned > tfoot > tr > td:first-child,
+.table-columned > tfoot > tr > th:first-child {
+  border-left: 0;
+}
+
+.table-columned > tbody > tr > td,
+.table-columned > tbody > tr > th {
+  border: 0;
+  border-left: 1px solid #ddd;
+}
+
+.table-columned > tfoot > tr > td,
+.table-columned > tfoot > tr > th {
+  border: 0;
+  border-left: 1px solid #ddd;
+}
+
+.table-border-style {
+  padding: 0;
+}
+
+.table-border-style .table {
+  margin-bottom: 0;
+}
+
+.table > thead > tr > th {
+  border-bottom-color: #ccc;
+}
+
+.table-borderless tbody tr td,
+.table-borderless tbody tr th {
+  border: 0;
+}
+
+.table-bordered > thead > tr.border-solid > td,
+.table-bordered > thead > tr.border-solid > th {
+  border-bottom-width: 2px;
+}
+
+.table-bordered > thead > tr.border-solid:first-child > td,
+.table-bordered > thead > tr.border-solid:first-child th {
+  border-bottom-width: 2px;
+}
+
+.table-bordered > thead > tr.border-double > td,
+.table-bordered > thead > tr.border-double > th {
+  border-bottom-width: 3px;
+  border-bottom-style: double;
+}
+
+.table-bordered > thead > tr.border-double:first-child > td,
+.table-bordered > thead > tr.border-double:first-child th {
+  border-bottom-width: 3px;
+  border-bottom-style: double;
+}
+
+.table button {
+  margin-bottom: 0;
+}
+
+.task-details .table.table-xs td,
+.task-details .table.table-xs th {
+  padding: 1rem 0.3rem;
+}
+.table-styling .table-primary,
+.table-styling.table-primary {
+  background-color: #01a9ac;
+  color: #fff;
+  border: 3px solid #01a9ac;
+}
+
+.table-styling .table-primary thead,
+.table-styling.table-primary thead {
+  background-color: #017779;
+  border: 3px solid #017779;
+}
+
+.table-styling .table-warning,
+.table-styling.table-warning {
+  background-color: #fe9365;
+  color: #fff;
+  border: 3px solid #fe9365;
+}
+
+.table-styling .table-warning thead,
+.table-styling.table-warning thead {
+  background-color: #fe6f32;
+  border: 3px solid #fe6f32;
+}
+
+.table-styling .table-default,
+.table-styling.table-default {
+  background-color: #e0e0e0;
+  color: #fff;
+  border: 3px solid #e0e0e0;
+}
+
+.table-styling .table-default thead,
+.table-styling.table-default thead {
+  background-color: #c7c7c7;
+  border: 3px solid #c7c7c7;
+}
+
+.table-styling .table-danger,
+.table-styling.table-danger {
+  background-color: #fe5d70;
+  color: #fff;
+  border: 3px solid #fe5d70;
+}
+
+.table-styling .table-danger thead,
+.table-styling.table-danger thead {
+  background-color: #fe2a43;
+  border: 3px solid #fe2a43;
+}
+
+.table-styling .table-success,
+.table-styling.table-success {
+  background-color: #0ac282;
+  color: #fff;
+  border: 3px solid #0ac282;
+}
+
+.table-styling .table-success thead,
+.table-styling.table-success thead {
+  background-color: #089262;
+  border: 3px solid #089262;
+}
+
+.table-styling .table-inverse,
+.table-styling.table-inverse {
+  background-color: #404e67;
+  color: #fff;
+  border: 3px solid #404e67;
+}
+
+.table-styling .table-inverse thead,
+.table-styling.table-inverse thead {
+  background-color: #2c3648;
+  border: 3px solid #2c3648;
+}
+
+.table-styling .table-info,
+.table-styling.table-info {
+  background-color: #2dcee3;
+  color: #fff;
+  border: 3px solid #2dcee3;
+}
+
+.table-styling .table-info thead,
+.table-styling.table-info thead {
+  background-color: #1ab0c3;
+  border: 3px solid #1ab0c3;
+}
+
+table.table-bordered.dataTable tbody th:focus,
+table.table-bordered.dataTable tbody td:focus {
+  outline: none;
+}
+
+.table.compact td,
+.table.compact th {
+  padding: 0.45rem;
+}
+
+.card .table-card-header b {
+  display: block;
+  color: #01a9ac;
+  margin-top: 15px;
+}
+
+.card .table-card-header span {
+  color: #017779;
+  display: inline-block;
+  margin-top: 0;
+}
+
+.footable-details.table,
+.footable.table,
+table.footable > tfoot > tr.footable-paging > td > span.label {
+  margin-bottom: 0;
+}
+
+.table-card .card-block {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
+
+.table-card .card-block .table > thead > tr > th {
+  border-top: 0;
+}
+
+.table-card .card-block .table .chk-option {
+  vertical-align: middle;
+  width: 30px;
+  display: inline-block;
+}
+
+.table-card .card-block .table .chk-option .checkbox-fade,
+.table-card .card-block .table .chk-option .checkbox-fade .cr,
+.table-card .card-block .table .chk-option .checkbox-zoom,
+.table-card .card-block .table .chk-option .checkbox-zoom .cr {
+  margin-right: 0;
+}
+
+.table-card .card-block .table label {
+  margin-bottom: 0;
+}
+
+.table-card .card-block .table tr td:first-child,
+.table-card .card-block .table tr th:first-child {
+  padding-left: 20px;
+}
+
+.table-card .card-block .table tr td:last-child,
+.table-card .card-block .table tr th:last-child {
+  padding-right: 20px;
+}
+
+.latest-activity-card .table td {
+  vertical-align: middle;
+}
+
+@media only screen and (max-width: 573px) {
+  .table-card .row-table {
+    display: block;
+    text-align: center;
+  }
+  .table-card .row-table i {
+    font-size: 28px;
+    margin-bottom: 10px;
+    display: inline-block;
+  }
+  .table-card .row-table .br {
+    border: none;
+    border-bottom: 1px solid #ccc;
+  }
+  .table-card .row-table > [class*="col-"] {
+    display: block;
+  }
+}
